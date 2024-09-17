@@ -1,0 +1,23 @@
+{
+    "model": "actionButton",
+    "srcType": "sanity",
+    "srcProjectId": "a1tpcseh:production",
+    "presets": [
+        {
+            "label": "Button Preset",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Buttons"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "ok",
+                "url": null,
+                "ariaLabel": null,
+                "theme": "primary"
+            }
+        }
+    ]
+}
